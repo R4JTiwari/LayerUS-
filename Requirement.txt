@@ -1,0 +1,10 @@
+flask
+playwright
+beautifulsoup4
+requests
+lxml
+✅ Install all dependencies
+pip install -r requirements.txt
+✅ Install Playwright browser engine
+playwright install
+That’s it 🚀
